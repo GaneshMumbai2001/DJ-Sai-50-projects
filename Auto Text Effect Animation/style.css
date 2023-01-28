@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Poppins:wght@100&display=swap');
+
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(230, 94, 67);
+    font-family: 'Permanent Marker', cursive;
+
+}
